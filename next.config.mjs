@@ -8,11 +8,6 @@ const nextConfig = {
         destination: "https://carcitycode.vercel.app",
         permanent: false,
       },
-      {
-        source: "pinatacloud",
-        destination: "https://pinata.cloud/blog",
-        permanent: false,
-      },
     ];
   },
 };
