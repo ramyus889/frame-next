@@ -27,5 +27,5 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
-  return <div className="">Car/City/Code</div>;
+  return <div className="">Car/City/Code/</div>;
 }
